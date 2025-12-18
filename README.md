@@ -10,7 +10,7 @@ Most solutions are implemented in **C++**, following a personal competitive prog
 ## 📁 Repository Structure
 
 The repository is organized as follows:
-
+```
 ├── Old Rounds/
 │ ├── EDU_ROUND-183/
 │ ├── Round 1059 - Div3/
@@ -26,7 +26,7 @@ The repository is organized as follows:
 │ └── Topic-based practice
 │
 └── template.cpp
-
+```
 ---
 
 ## 📌 Details
