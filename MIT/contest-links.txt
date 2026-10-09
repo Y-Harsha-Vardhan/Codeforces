@@ -1,0 +1,4 @@
+The following are the contest links for the codeforces rounds:
+Advanced I - codeforces.com/gym/105666
+Advanced II- codeforces.com/gym/105667
+Beginner   - codeforces.com/gym/105668
